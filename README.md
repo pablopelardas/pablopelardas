@@ -8,7 +8,7 @@ Hello! I am Pablo Pelardas, a Full Stack Web Developer passionate about learning
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [pablo.pelardas@gmail.com](mailto:pablo.pelardas@gmail.com)
-* 🚀  I'm currently working on Raona (YPF)
+* 🚀  I'm currently working on Intuit
 
 ### Skills
 
